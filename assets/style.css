@@ -1,0 +1,45 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #999999;
+}
+
+.footer {
+  padding: 15px 0;
+}
+
+.pesan {
+	display: none;
+}
+
+body {
+	background-color: #DCDCDC;
+} 
+
+.form {
+	background-color: #0000FF;
+	margin-left: 13%;
+	height: auto;
+	padding: 10px;
+}
+
+.header-form {
+	font-size: 25px;
+	color: #ffffff;
+	margin-top: 10px;
+}
+
+.content-form {
+	margin-top: 10px;
+	font-size: 18px;
+	color: #ffffff;
+	width: 50%;
+}
+
+.button {
+	margin-top: 15px;
+	color: #000000;
+}
